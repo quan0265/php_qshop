@@ -1,5 +1,5 @@
 # php_qshop
 
 admin:
-username: admin
-password: admin1234
+##username: admin
+##password: admin1234
